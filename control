@@ -1,0 +1,9 @@
+Package: com.p2kdev.reverseisland
+Name: ReverseIsland
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Single Tap on the Island to launch widget & hold to launch the app!
+Maintainer: P2KDev <p2kdev@gmail.com>
+Author: P2KDev <p2kdev@gmail.com>
+Section: Tweaks
